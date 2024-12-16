@@ -5,7 +5,7 @@ Version: 0.0.0.9000
 Authors@R: person("Ernest", "Guevarra", 
     comment = c(ORCID = "0000-0002-4887-4415"), 
     email = "ernest@guevarra.io", role = c("aut", "cre"))
-Description: The NarutoDB API <https://narutodb.xyz/api> offers a comprehensive 
+Description: The NarutoDB API <https://narutodb.xyz> offers a comprehensive 
     database featuring all the characters, clans, villages, kekkei genkai, 
     tailed beasts, teams, akatsuki, and rara members from the renowned anime and 
     manga series *Naruto*. The API provides detailed information on each 

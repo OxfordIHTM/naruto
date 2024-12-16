@@ -1,7 +1,7 @@
 #'
 #' An Interface to the Naruto Database API
 #' 
-#' The NarutoDB API <https://narutodb.xyz/api> offers a comprehensive database 
+#' The NarutoDB API <https://narutodb.xyz> offers a comprehensive database 
 #' featuring all the characters, clans, villages, kekkei genkai, tailed beasts, 
 #' teams, akatsuki, and rara members from the renowned anime and manga series 
 #' *Naruto*. The API provides detailed information on each character, including 
