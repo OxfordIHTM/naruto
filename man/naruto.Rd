@@ -6,7 +6,7 @@
 \alias{naruto}
 \title{An Interface to the Naruto Database API}
 \description{
-The NarutoDB API \url{https://narutodb.xyz/api} offers a comprehensive database
+The NarutoDB API \url{https://narutodb.xyz} offers a comprehensive database
 featuring all the characters, clans, villages, kekkei genkai, tailed beasts,
 teams, akatsuki, and rara members from the renowned anime and manga series
 \emph{Naruto}. The API provides detailed information on each character, including
